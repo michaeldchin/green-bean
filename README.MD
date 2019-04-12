@@ -1,7 +1,12 @@
+# Green Bean
+https://codepen.io/Micoolman/pen/MLNgbQ
+
+
+## Patch Notes
 --- 1.0
 - release. 
 - Just a text box and the text "Green Bean" 
-- # https://codepen.io/Micoolman/full/JxQqje
+- OLD: https://codepen.io/Micoolman/full/JxQqje
 
 --- 1.X
 - CSS formatting 

@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css?family=Muli');
+
+h3 {
+    font-size: 258%;
+    margin-top: 1em;
+    margin-bottom: 10px;
+  }
+
+img {
+  border: none;
+  box-shadow: none;
+  -moz-box-shadow: none;
+  -o-box-shadow: none;
+  -webkit-box-shadow: none;
+}
+body {
+  padding: 2;
+  color: white;
+  font-family: 'Muli', sans-serif;
+  background: #333;
+  overflow-x: hidden;
+  text-align:center;
+}
+
+.box {
+  text-align: center;
+  font-size: 140%;
+}
+
+.demo {
+  font-size: 180%;
+  margin-top: 20px;
+  margin-bottom: 28px;
+}
+
+#footer {
+  margin: 80px;
+  position:fixed;
+  left:0px;
+  bottom:0px;
+  height:30px;
+  width:100%;
+  background:#999;
+  z-index: 1000;
+}
+.small {
+  font-size: 80;
+  color: #777
+}
+.reallysmall {
+  font-size: 70%;
+  color: #555;
+}
+
+.button9 {
+	height: 30px;
+	width: 120px;
+	background: #444;
+	border: none;
+	color: white;
+	font-size: 16px;
+	font-weight: lighter;
+  margin: 10px;
+	text-transform: uppercase;
+	text-decoration: none;
+	overflow: hidden;
+	transition: all 0.1s ease-in-out;
+}
+
+.zd4 {
+  border: none;
+  width: 1600px;
+  height: 1600px;
+}
+
+#hidden{
+  display: hidden;
+}

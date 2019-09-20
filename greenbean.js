@@ -7,7 +7,7 @@ field.addEventListener('keyup',function(e){
 function updateOutput() {
   var x = document.getElementById("myText").value;
   var secret = document.getElementById("hidden");
-  if (x === 'Zd4sw4Hm') {
+  if (x.toLowerCase().startsWith('zd4')) {
     secret.style.display = "block";
   } else {
     secret.style.display = "none";

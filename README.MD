@@ -1,5 +1,5 @@
 # Green Bean
-https://codepen.io/Micoolman/pen/MLNgbQ
+https://michaeldchin.github.io/green-bean/
 
 
 ## Patch Notes
@@ -28,3 +28,6 @@ https://codepen.io/Micoolman/pen/MLNgbQ
 
 --- 3.0
 - Now on github
+
+--- 3.1
+- Updated Readme with github pages link instead of codepen

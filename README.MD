@@ -31,3 +31,7 @@ https://michaeldchin.github.io/green-bean/
 
 --- 3.1
 - Updated Readme with github pages link instead of codepen
+
+--- 3.2
+- Copyright year now auto-updates
+

@@ -4,6 +4,9 @@ field.addEventListener('keyup',function(e){
     updateOutput()
 });
 
+year = new Date().getFullYear();
+document.getElementById("copyright").innerHTML = `&copy; Copyright ${year}, Michael Chin`;
+
 function updateOutput() {
   var x = document.getElementById("myText").value;
   var secret = document.getElementById("hidden");

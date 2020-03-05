@@ -35,3 +35,5 @@ https://michaeldchin.github.io/green-bean/
 --- 3.2
 - Copyright year now auto-updates
 
+--- 3.3
+- Down with hosten
